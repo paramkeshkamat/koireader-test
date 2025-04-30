@@ -1,0 +1,9 @@
+export { default as ProductsGrid } from "./products-grid";
+export { default as ProductCard } from "./product-card";
+export { default as Searchbar } from "./search-bar";
+export { default as CardImage } from "./card-image";
+export { default as Rating } from "./rating";
+export { default as CategoriesFilter } from "./categories-filter";
+export { default as RatingFilter } from "./rating-filter";
+export { default as ResetFilter } from "./reset-filter";
+export { default as PricesFilter } from "./prices-filter";
